@@ -18,5 +18,3 @@ DOI:10.1109/TNNLS.2018.2881143.
 }
 
 
-
-B.T.W., the code here is just the architecture found by the alrogithm shown in this paper, I will upload the algorithm code soon.
